@@ -1,7 +1,7 @@
 # Data-Mining-Project
-#Author: Manuel Carreiras and Venâncio Munhangane
+# Author: Manuel Carreiras and Venâncio Munhangane
 
-#Context
+# Context
 This dataset was provided by the Paralyzed Veterans of America (PVA). PVA is a non-profit
 organization that provides programs and services for US veterans with spinal cord injuries or disease.
 With an in-house database of 13 million donors, PVA is also one of the largest direct mail fundraisers in
